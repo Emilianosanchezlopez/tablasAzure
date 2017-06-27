@@ -1,14 +1,21 @@
 {
-  "name": "tablas-mainbit",
-  "version": "1.0.0",
-  "description": "Tablas Mainbit a Node JS y Table Stirage",
-  "main": "app.js",
+  "name": "todolist",
+  "version": "0.0.1",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www"
   },
-  "author": "Marte Franco",
-  "license": "ISC",
   "dependencies": {
-    "azure-storage": "^2.1.0"
+    "async": "^2.5.0",
+    "azure-storage": "^2.2.0",
+    "body-parser": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "debug": "~0.7.4",
+    "express": "~4.2.0",
+    "jade": "~1.3.0",
+    "morgan": "~1.0.0",
+    "nconf": "^0.8.4",
+    "node-uuid": "^1.4.8",
+    "static-favicon": "~1.0.0"
   }
 }

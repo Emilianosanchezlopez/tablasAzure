@@ -1,0 +1,6 @@
+{
+    "STORAGE_NAME": "storagemainbit",
+    "STORAGE_KEY": "gAEQVvQHHMZwPVAdQQDMFr1oIJZHLAggz2syCD5AfcddPoPaYlkmiiaKa6M72rZtlPCJjZ2RXvNSQem6O3Odag==",
+    "PARTITION_KEY": "mytasks",
+    "TABLE_NAME": "tasks"
+}
